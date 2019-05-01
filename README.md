@@ -31,3 +31,10 @@ Background subtraction is a major preprocessing steps in many vision based appli
 
 # Face & eye detection
 use of the haarcascade_frontalface_default file to detect face and haarcascade_eye file for eye
+
+
+# Using Library
+-->cv2                                                                                                                                 
+-->time                                                                                                                                 
+-->numpy                                                                                                                                
+-->matplotlib                                                                                                                   
